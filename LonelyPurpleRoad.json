@@ -4,7 +4,43 @@
     "version": "0.0.1",
     "name": "LonelyPurpleRoad",
     "license": "MIT",
-    "transparency_mode": 3
+    "transparency_mode": 3,
+    "updater": "https://raw.githubusercontent.com/KarinaAE123/LonelyPurpleRoad/main/LonelyPurpleRoad.json"
+  },
+  "background": {
+    "url": "https://i.imgur.com/QBQOvCO.jpg",
+    "blur_radius": 1
+  },
+  "simple_colors": {
+    "input_background": -14482139
+  },
+  "colors": {
+    "primary_dark_800": -14482139,
+    "primary_dark_660": 870933929,
+    "uikit_settings_item_text_color_light": -14482139,
+    "primary_dark_300": -3571729,
+    "white_500": -3571729,
+    "primary_dark_330": -2980615,
+    "primary_dark_200": -795137,
+    "uikit_settings_item_text_color_dark": -795137,
+    "primary_dark_400": -2637341,
+    "primary_dark_360": -795137
+  },
+  "drawable_tints": {
+    "ic_status_online_16dp": -3571729,
+    "ic_status_idle_16dp": -7055169,
+    "ic_status_dnd_16dp": -12117407,
+    "ic_status_invisible_16dp": -14284751,
+    "ic_mobile": -3571729,
+    "drawable_bg_reaction_dark": 1374250409,
+    "ic_channel_text": -3571729,
+    "drawable_overlay_channels_selected_dark": 1029184629,
+    "ic_sidebar_pins_off_dark_24dp": -3571729,
+    "ic_sidebar_notifications_on_dark_24dp": -3571729
+  }
+}
+
+
   },
   "background": {
     "url": "https://i.imgur.com/QBQOvCO.jpg",

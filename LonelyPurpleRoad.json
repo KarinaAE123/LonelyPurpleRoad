@@ -72,5 +72,8 @@
     "drawable_overlay_channels_selected_dark": 1029184629,
     "ic_sidebar_pins_off_dark_24dp": -3571729,
     "ic_sidebar_notifications_on_dark_24dp": -3571729
+  },
+  "fonts": {
+    "*": "https:\/\/github.com\/KarinaAE123\/LonelyPurpleRoad\/blob\/main\/MoonDance-Regular.ttf"
   }
 }
